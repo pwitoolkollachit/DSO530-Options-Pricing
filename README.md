@@ -1,1 +1,2 @@
 # DSO530-Options-Pricing
+This project delves into the analysis of financial data from the S&P 500, focusing on stock options with independent variables (IVs) 's', 'k', 'r', and 'tau', and dependent variables (DVs) representing option value and whether the Black-Scholes method over or underestimated the option. The study encompasses exploratory data analysis (EDA), data preprocessing, methodologies employed for regression and classification, and concludes with business implications and insights.
